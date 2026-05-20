@@ -1,0 +1,13 @@
+drug_id,ema_product_id,drug_name
+1,EMA-DEMO-0001,Paracetamol Demo
+2,EMA-DEMO-0002,Ibuprofen Demo
+3,EMA-DEMO-0003,Amoxicillin Demo
+4,EMA-DEMO-0004,Metformin Demo
+5,EMA-DEMO-0005,Atorvastatin Demo
+6,EMA-DEMO-0006,Omeprazole Demo
+7,EMA-DEMO-0007,Aspirin Demo
+8,EMA-DEMO-0008,Salbutamol Demo
+9,EMA-DEMO-0009,Cefuroxime Demo
+10,EMA-DEMO-0010,Insulin Demo
+11,EMA-DEMO-0011,Losartan Demo
+12,EMA-DEMO-0012,Furosemide Demo

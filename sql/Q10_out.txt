@@ -1,0 +1,4 @@
+substance_1	substance_2	co_prescription_frequency
+Amoxicillin	Metformin	52
+Ibuprofen	Amoxicillin	48
+Ibuprofen	Metformin	48

@@ -1,0 +1,111 @@
+image_id,entity_type,entity_id,image_url,alt_text
+1,department,1,https://example.test/images/departments/1.jpg,Ενδεικτική φωτογραφία τμήματος Καρδιολογία
+2,department,2,https://example.test/images/departments/2.jpg,Ενδεικτική φωτογραφία τμήματος Χειρουργική
+3,department,3,https://example.test/images/departments/3.jpg,Ενδεικτική φωτογραφία τμήματος ΜΕΘ
+4,department,4,https://example.test/images/departments/4.jpg,Ενδεικτική φωτογραφία τμήματος Επείγοντα
+5,department,5,https://example.test/images/departments/5.jpg,Ενδεικτική φωτογραφία τμήματος Παθολογική
+6,department,6,https://example.test/images/departments/6.jpg,Ενδεικτική φωτογραφία τμήματος Ορθοπαιδική
+7,department,7,https://example.test/images/departments/7.jpg,Ενδεικτική φωτογραφία τμήματος Νευρολογία
+8,department,8,https://example.test/images/departments/8.jpg,Ενδεικτική φωτογραφία τμήματος Παιδιατρική
+9,department,9,https://example.test/images/departments/9.jpg,Ενδεικτική φωτογραφία τμήματος Μαιευτική
+10,department,10,https://example.test/images/departments/10.jpg,Ενδεικτική φωτογραφία τμήματος Ογκολογία
+11,department,11,https://example.test/images/departments/11.jpg,Ενδεικτική φωτογραφία τμήματος Πνευμονολογία
+12,department,12,https://example.test/images/departments/12.jpg,Ενδεικτική φωτογραφία τμήματος Νεφρολογία
+13,department,13,https://example.test/images/departments/13.jpg,Ενδεικτική φωτογραφία τμήματος Γαστρεντερολογία
+14,department,14,https://example.test/images/departments/14.jpg,Ενδεικτική φωτογραφία τμήματος ΩΡΛ
+15,department,15,https://example.test/images/departments/15.jpg,Ενδεικτική φωτογραφία τμήματος Οφθαλμολογία
+16,doctor,1,https://example.test/images/doctors/1.jpg,Πορτρέτο ιατρού με κωδικό προσωπικού 1
+17,doctor,2,https://example.test/images/doctors/2.jpg,Πορτρέτο ιατρού με κωδικό προσωπικού 2
+18,doctor,3,https://example.test/images/doctors/3.jpg,Πορτρέτο ιατρού με κωδικό προσωπικού 3
+19,doctor,4,https://example.test/images/doctors/4.jpg,Πορτρέτο ιατρού με κωδικό προσωπικού 4
+20,doctor,5,https://example.test/images/doctors/5.jpg,Πορτρέτο ιατρού με κωδικό προσωπικού 5
+21,doctor,6,https://example.test/images/doctors/6.jpg,Πορτρέτο ιατρού με κωδικό προσωπικού 6
+22,doctor,7,https://example.test/images/doctors/7.jpg,Πορτρέτο ιατρού με κωδικό προσωπικού 7
+23,doctor,8,https://example.test/images/doctors/8.jpg,Πορτρέτο ιατρού με κωδικό προσωπικού 8
+24,doctor,9,https://example.test/images/doctors/9.jpg,Πορτρέτο ιατρού με κωδικό προσωπικού 9
+25,doctor,10,https://example.test/images/doctors/10.jpg,Πορτρέτο ιατρού με κωδικό προσωπικού 10
+26,doctor,11,https://example.test/images/doctors/11.jpg,Πορτρέτο ιατρού με κωδικό προσωπικού 11
+27,doctor,12,https://example.test/images/doctors/12.jpg,Πορτρέτο ιατρού με κωδικό προσωπικού 12
+28,doctor,13,https://example.test/images/doctors/13.jpg,Πορτρέτο ιατρού με κωδικό προσωπικού 13
+29,doctor,14,https://example.test/images/doctors/14.jpg,Πορτρέτο ιατρού με κωδικό προσωπικού 14
+30,doctor,15,https://example.test/images/doctors/15.jpg,Πορτρέτο ιατρού με κωδικό προσωπικού 15
+31,doctor,16,https://example.test/images/doctors/16.jpg,Πορτρέτο ιατρού με κωδικό προσωπικού 16
+32,doctor,17,https://example.test/images/doctors/17.jpg,Πορτρέτο ιατρού με κωδικό προσωπικού 17
+33,doctor,18,https://example.test/images/doctors/18.jpg,Πορτρέτο ιατρού με κωδικό προσωπικού 18
+34,doctor,19,https://example.test/images/doctors/19.jpg,Πορτρέτο ιατρού με κωδικό προσωπικού 19
+35,doctor,20,https://example.test/images/doctors/20.jpg,Πορτρέτο ιατρού με κωδικό προσωπικού 20
+36,doctor,21,https://example.test/images/doctors/21.jpg,Πορτρέτο ιατρού με κωδικό προσωπικού 21
+37,doctor,22,https://example.test/images/doctors/22.jpg,Πορτρέτο ιατρού με κωδικό προσωπικού 22
+38,doctor,23,https://example.test/images/doctors/23.jpg,Πορτρέτο ιατρού με κωδικό προσωπικού 23
+39,doctor,24,https://example.test/images/doctors/24.jpg,Πορτρέτο ιατρού με κωδικό προσωπικού 24
+40,doctor,25,https://example.test/images/doctors/25.jpg,Πορτρέτο ιατρού με κωδικό προσωπικού 25
+41,doctor,26,https://example.test/images/doctors/26.jpg,Πορτρέτο ιατρού με κωδικό προσωπικού 26
+42,doctor,27,https://example.test/images/doctors/27.jpg,Πορτρέτο ιατρού με κωδικό προσωπικού 27
+43,doctor,28,https://example.test/images/doctors/28.jpg,Πορτρέτο ιατρού με κωδικό προσωπικού 28
+44,doctor,29,https://example.test/images/doctors/29.jpg,Πορτρέτο ιατρού με κωδικό προσωπικού 29
+45,doctor,30,https://example.test/images/doctors/30.jpg,Πορτρέτο ιατρού με κωδικό προσωπικού 30
+46,doctor,31,https://example.test/images/doctors/31.jpg,Πορτρέτο ιατρού με κωδικό προσωπικού 31
+47,doctor,32,https://example.test/images/doctors/32.jpg,Πορτρέτο ιατρού με κωδικό προσωπικού 32
+48,doctor,33,https://example.test/images/doctors/33.jpg,Πορτρέτο ιατρού με κωδικό προσωπικού 33
+49,doctor,34,https://example.test/images/doctors/34.jpg,Πορτρέτο ιατρού με κωδικό προσωπικού 34
+50,doctor,35,https://example.test/images/doctors/35.jpg,Πορτρέτο ιατρού με κωδικό προσωπικού 35
+51,doctor,36,https://example.test/images/doctors/36.jpg,Πορτρέτο ιατρού με κωδικό προσωπικού 36
+52,doctor,37,https://example.test/images/doctors/37.jpg,Πορτρέτο ιατρού με κωδικό προσωπικού 37
+53,doctor,38,https://example.test/images/doctors/38.jpg,Πορτρέτο ιατρού με κωδικό προσωπικού 38
+54,doctor,39,https://example.test/images/doctors/39.jpg,Πορτρέτο ιατρού με κωδικό προσωπικού 39
+55,doctor,40,https://example.test/images/doctors/40.jpg,Πορτρέτο ιατρού με κωδικό προσωπικού 40
+56,doctor,41,https://example.test/images/doctors/41.jpg,Πορτρέτο ιατρού με κωδικό προσωπικού 41
+57,doctor,42,https://example.test/images/doctors/42.jpg,Πορτρέτο ιατρού με κωδικό προσωπικού 42
+58,doctor,43,https://example.test/images/doctors/43.jpg,Πορτρέτο ιατρού με κωδικό προσωπικού 43
+59,doctor,44,https://example.test/images/doctors/44.jpg,Πορτρέτο ιατρού με κωδικό προσωπικού 44
+60,doctor,45,https://example.test/images/doctors/45.jpg,Πορτρέτο ιατρού με κωδικό προσωπικού 45
+61,doctor,46,https://example.test/images/doctors/46.jpg,Πορτρέτο ιατρού με κωδικό προσωπικού 46
+62,doctor,47,https://example.test/images/doctors/47.jpg,Πορτρέτο ιατρού με κωδικό προσωπικού 47
+63,doctor,48,https://example.test/images/doctors/48.jpg,Πορτρέτο ιατρού με κωδικό προσωπικού 48
+64,doctor,49,https://example.test/images/doctors/49.jpg,Πορτρέτο ιατρού με κωδικό προσωπικού 49
+65,doctor,50,https://example.test/images/doctors/50.jpg,Πορτρέτο ιατρού με κωδικό προσωπικού 50
+66,doctor,51,https://example.test/images/doctors/51.jpg,Πορτρέτο ιατρού με κωδικό προσωπικού 51
+67,doctor,52,https://example.test/images/doctors/52.jpg,Πορτρέτο ιατρού με κωδικό προσωπικού 52
+68,doctor,53,https://example.test/images/doctors/53.jpg,Πορτρέτο ιατρού με κωδικό προσωπικού 53
+69,doctor,54,https://example.test/images/doctors/54.jpg,Πορτρέτο ιατρού με κωδικό προσωπικού 54
+70,doctor,55,https://example.test/images/doctors/55.jpg,Πορτρέτο ιατρού με κωδικό προσωπικού 55
+71,doctor,56,https://example.test/images/doctors/56.jpg,Πορτρέτο ιατρού με κωδικό προσωπικού 56
+72,doctor,57,https://example.test/images/doctors/57.jpg,Πορτρέτο ιατρού με κωδικό προσωπικού 57
+73,doctor,58,https://example.test/images/doctors/58.jpg,Πορτρέτο ιατρού με κωδικό προσωπικού 58
+74,doctor,59,https://example.test/images/doctors/59.jpg,Πορτρέτο ιατρού με κωδικό προσωπικού 59
+75,doctor,60,https://example.test/images/doctors/60.jpg,Πορτρέτο ιατρού με κωδικό προσωπικού 60
+76,doctor,61,https://example.test/images/doctors/61.jpg,Πορτρέτο ιατρού με κωδικό προσωπικού 61
+77,doctor,62,https://example.test/images/doctors/62.jpg,Πορτρέτο ιατρού με κωδικό προσωπικού 62
+78,doctor,63,https://example.test/images/doctors/63.jpg,Πορτρέτο ιατρού με κωδικό προσωπικού 63
+79,doctor,64,https://example.test/images/doctors/64.jpg,Πορτρέτο ιατρού με κωδικό προσωπικού 64
+80,doctor,65,https://example.test/images/doctors/65.jpg,Πορτρέτο ιατρού με κωδικό προσωπικού 65
+81,doctor,66,https://example.test/images/doctors/66.jpg,Πορτρέτο ιατρού με κωδικό προσωπικού 66
+82,doctor,67,https://example.test/images/doctors/67.jpg,Πορτρέτο ιατρού με κωδικό προσωπικού 67
+83,doctor,68,https://example.test/images/doctors/68.jpg,Πορτρέτο ιατρού με κωδικό προσωπικού 68
+84,doctor,69,https://example.test/images/doctors/69.jpg,Πορτρέτο ιατρού με κωδικό προσωπικού 69
+85,doctor,70,https://example.test/images/doctors/70.jpg,Πορτρέτο ιατρού με κωδικό προσωπικού 70
+86,doctor,71,https://example.test/images/doctors/71.jpg,Πορτρέτο ιατρού με κωδικό προσωπικού 71
+87,doctor,72,https://example.test/images/doctors/72.jpg,Πορτρέτο ιατρού με κωδικό προσωπικού 72
+88,doctor,73,https://example.test/images/doctors/73.jpg,Πορτρέτο ιατρού με κωδικό προσωπικού 73
+89,doctor,74,https://example.test/images/doctors/74.jpg,Πορτρέτο ιατρού με κωδικό προσωπικού 74
+90,doctor,75,https://example.test/images/doctors/75.jpg,Πορτρέτο ιατρού με κωδικό προσωπικού 75
+91,doctor,76,https://example.test/images/doctors/76.jpg,Πορτρέτο ιατρού με κωδικό προσωπικού 76
+92,doctor,77,https://example.test/images/doctors/77.jpg,Πορτρέτο ιατρού με κωδικό προσωπικού 77
+93,doctor,78,https://example.test/images/doctors/78.jpg,Πορτρέτο ιατρού με κωδικό προσωπικού 78
+94,doctor,79,https://example.test/images/doctors/79.jpg,Πορτρέτο ιατρού με κωδικό προσωπικού 79
+95,doctor,80,https://example.test/images/doctors/80.jpg,Πορτρέτο ιατρού με κωδικό προσωπικού 80
+96,doctor,81,https://example.test/images/doctors/81.jpg,Πορτρέτο ιατρού με κωδικό προσωπικού 81
+97,doctor,82,https://example.test/images/doctors/82.jpg,Πορτρέτο ιατρού με κωδικό προσωπικού 82
+98,doctor,83,https://example.test/images/doctors/83.jpg,Πορτρέτο ιατρού με κωδικό προσωπικού 83
+99,doctor,84,https://example.test/images/doctors/84.jpg,Πορτρέτο ιατρού με κωδικό προσωπικού 84
+100,doctor,85,https://example.test/images/doctors/85.jpg,Πορτρέτο ιατρού με κωδικό προσωπικού 85
+101,doctor,86,https://example.test/images/doctors/86.jpg,Πορτρέτο ιατρού με κωδικό προσωπικού 86
+102,doctor,87,https://example.test/images/doctors/87.jpg,Πορτρέτο ιατρού με κωδικό προσωπικού 87
+103,doctor,88,https://example.test/images/doctors/88.jpg,Πορτρέτο ιατρού με κωδικό προσωπικού 88
+104,doctor,89,https://example.test/images/doctors/89.jpg,Πορτρέτο ιατρού με κωδικό προσωπικού 89
+105,doctor,90,https://example.test/images/doctors/90.jpg,Πορτρέτο ιατρού με κωδικό προσωπικού 90
+106,doctor,91,https://example.test/images/doctors/91.jpg,Πορτρέτο ιατρού με κωδικό προσωπικού 91
+107,doctor,92,https://example.test/images/doctors/92.jpg,Πορτρέτο ιατρού με κωδικό προσωπικού 92
+108,doctor,93,https://example.test/images/doctors/93.jpg,Πορτρέτο ιατρού με κωδικό προσωπικού 93
+109,doctor,94,https://example.test/images/doctors/94.jpg,Πορτρέτο ιατρού με κωδικό προσωπικού 94
+110,doctor,95,https://example.test/images/doctors/95.jpg,Πορτρέτο ιατρού με κωδικό προσωπικού 95

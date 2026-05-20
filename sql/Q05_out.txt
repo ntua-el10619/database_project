@@ -1,0 +1,5 @@
+doctor_id	first_name	last_name	age	specialty	surgical_procedures_as_main_surgeon
+18	Πέτρος	Αλεξίου	33	Εντατικολογία	8
+21	Ιωάννα	Γεωργίου	31	Ορθοπαιδική	8
+24	Γιώργος	Δημητρίου	34	Μαιευτική	8
+30	Πέτρος	Παπαδόπουλος	33	Οφθαλμολογία	7

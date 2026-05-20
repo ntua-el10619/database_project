@@ -1,0 +1,2 @@
+doctor_id	doctor_first_name	doctor_last_name	avg_medical_care_rating	avg_hospitalization_overall_rating	doctor_review_count
+2	Νίκος	Νικολάου	4.0000	3.0000	1

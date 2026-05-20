@@ -1,0 +1,2 @@
+patient_id	amka	first_name	last_name	department	hospitalizations_in_department	total_hospitalization_cost
+1	90000000001	Κώστας	Αθανασίου	Καρδιολογία	4	10740.00

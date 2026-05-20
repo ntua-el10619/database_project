@@ -1,0 +1,2 @@
+category_code	year_1	year_2	admissions_each_year
+Z	2025	2026	10
