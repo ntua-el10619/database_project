@@ -24,7 +24,7 @@ database_project/
 │   └── Q01_out.txt ... Q15_out.txt
 
 ├── docs/
-│   └── report.pdf
+│   └── report.md
 
 └── README.md
 ```
